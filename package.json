@@ -12,12 +12,11 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@bablr/agast-helpers": "0.9.0",
-    "@bablr/agast-vm-helpers": "0.9.0",
-    "@bablr/helpers": "0.24.0",
+    "@bablr/agast-helpers": "0.10.0",
+    "@bablr/agast-vm-helpers": "0.10.0",
+    "@bablr/helpers": "0.25.0",
     "@bablr/coroutine": "0.1.0",
-    "@iter-tools/imm-stack": "1.2.0",
-    "iter-tools-es": "7.5.3"
+    "@iter-tools/imm-stack": "1.2.0"
   },
   "devDependencies": {
     "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#49f5952efed27f94ee9b94340eb1563c440bf64e",
@@ -27,7 +26,10 @@
     "eslint-plugin-import": "^2.27.5",
     "prettier": "^2.6.2"
   },
-  "repository": "github:bablr-lang/bablr-vm-strategy-parse",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bablr-lang/bablr-vm-strategy-parse.git"
+  },
   "homepage": "https://github.com/bablr-lang/bablr-vm-strategy-parse",
   "license": "MIT"
 }
