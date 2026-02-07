@@ -12,11 +12,10 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@bablr/agast-helpers": "0.10.6",
-    "@bablr/agast-vm-helpers": "0.10.4",
-    "@bablr/helpers": "0.25.2",
-    "@bablr/coroutine": "0.1.0",
-    "@iter-tools/imm-stack": "1.2.0"
+    "@bablr/agast-helpers": "0.10.10",
+    "@bablr/agast-vm-helpers": "0.10.5",
+    "@bablr/helpers": "0.25.5",
+    "@bablr/coroutine": "0.1.0"
   },
   "devDependencies": {
     "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#49f5952efed27f94ee9b94340eb1563c440bf64e",
