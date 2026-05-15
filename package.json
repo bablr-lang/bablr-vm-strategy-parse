@@ -12,9 +12,9 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@bablr/agast-helpers": "0.11.0",
-    "@bablr/agast-vm-helpers": "0.11.0",
-    "@bablr/helpers": "0.26.0",
+    "@bablr/agast-helpers": "0.11.1",
+    "@bablr/agast-vm-helpers": "0.11.1",
+    "@bablr/helpers": "0.26.2",
     "@bablr/coroutine": "1.0.1"
   },
   "devDependencies": {
